@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MFaiqKhan/.github.io/react-hello-w/static/css/main.abd64e84.css",
-    "main.js": "/MFaiqKhan/.github.io/react-hello-w/static/js/main.d6cbe04e.js",
-    "index.html": "/MFaiqKhan/.github.io/react-hello-w/index.html",
-    "main.abd64e84.css.map": "/MFaiqKhan/.github.io/react-hello-w/static/css/main.abd64e84.css.map",
-    "main.d6cbe04e.js.map": "/MFaiqKhan/.github.io/react-hello-w/static/js/main.d6cbe04e.js.map"
+    "main.css": "/react-hello-w/static/css/main.abd64e84.css",
+    "main.js": "/react-hello-w/static/js/main.d6cbe04e.js",
+    "index.html": "/react-hello-w/index.html",
+    "main.abd64e84.css.map": "/react-hello-w/static/css/main.abd64e84.css.map",
+    "main.d6cbe04e.js.map": "/react-hello-w/static/js/main.d6cbe04e.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
